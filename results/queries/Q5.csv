@@ -1,0 +1,32 @@
+gene_symbol,human_symbol,hgnc_id,doid,disease_name,n_mouse_model_genotypes
+Cog2,COG2,HGNC:6546,DOID:0070269,congenital disorder of glycosylation type IIq,0
+Ifng,IFNG,HGNC:5438,DOID:9952,acute lymphoblastic leukemia,14
+Ifng,IFNG,HGNC:5438,DOID:12449,aplastic anemia,2
+Ifng,IFNG,HGNC:5438,DOID:12704,ataxia telangiectasia,9
+Ifng,IFNG,HGNC:5438,DOID:1612,breast cancer,105
+Ifng,IFNG,HGNC:5438,DOID:3265,chronic granulomatous disease,0
+Ifng,IFNG,HGNC:5438,DOID:9743,diabetic neuropathy,0
+Ifng,IFNG,HGNC:5438,DOID:9123,eczema herpeticum,0
+Ifng,IFNG,HGNC:5438,DOID:12134,factor VIII deficiency,3
+Ifng,IFNG,HGNC:5438,DOID:2862,glucosephosphate dehydrogenase deficiency,0
+Ifng,IFNG,HGNC:5438,DOID:0081267,graft-versus-host disease,0
+Ifng,IFNG,HGNC:5438,DOID:12361,Graves' disease,0
+Ifng,IFNG,HGNC:5438,DOID:1883,hepatitis C,0
+Ifng,IFNG,HGNC:5438,DOID:526,human immunodeficiency virus infectious disease,0
+Ifng,IFNG,HGNC:5438,DOID:0112006,immunodeficiency 69,0
+Ifng,IFNG,HGNC:5438,DOID:5082,liver cirrhosis,0
+Ifng,IFNG,HGNC:5438,DOID:0080162,lupus nephritis,0
+Ifng,IFNG,HGNC:5438,DOID:2377,multiple sclerosis,22
+Ifng,IFNG,HGNC:5438,DOID:8692,myeloid leukemia,1
+Ifng,IFNG,HGNC:5438,DOID:2957,pulmonary tuberculosis,1
+Ifng,IFNG,HGNC:5438,DOID:7148,rheumatoid arthritis,22
+Ifng,IFNG,HGNC:5438,DOID:10003,sensorineural hearing loss,5
+Ifng,IFNG,HGNC:5438,DOID:2945,severe acute respiratory syndrome,7
+Ifng,IFNG,HGNC:5438,DOID:418,systemic scleroderma,7
+Ifng,IFNG,HGNC:5438,DOID:13375,temporal arteritis,0
+Ifng,IFNG,HGNC:5438,DOID:399,tuberculosis,0
+Ifng,IFNG,HGNC:5438,DOID:0080325,tuberous sclerosis 2,0
+Ifng,IFNG,HGNC:5438,DOID:9352,type 2 diabetes mellitus,56
+Ifng,IFNG,HGNC:5438,DOID:9620,vesicoureteral reflux,1
+Ifng,IFNG,HGNC:5438,DOID:12306,vitiligo,0
+Myof,MYOF,HGNC:3656,DOID:14735,hereditary angioedema,0

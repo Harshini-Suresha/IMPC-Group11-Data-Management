@@ -1,0 +1,19 @@
+# local credentials and private MySQL instance
+db_config.cnf
+mysql_local/
+# large / intermediate local files (all reproducible or superseded)
+*.RData
+.Rhistory
+.DS_Store
+group11_data/
+Group11.zip
+cleaned_output/
+final_submission/*.rds
+clean_data/clean_tables.rds
+clean_data/raw_records_parsed.tsv
+Group11_Data_Cleaning_and_Validation_Final_Report_19Nov2026.docx
+report/*.docx~
+final_submission/
+/Group11_Final_Validation.R
+/report/
+Rplots.pdf

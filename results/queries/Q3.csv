@@ -1,0 +1,6 @@
+gene_symbol,n_tests,n_sig_0_05,n_sig_0_001,min_p,n_procedures_with_hits
+Cog2,6,0,0,0.202111816,0
+Ifng,107,17,9,0,10
+Lpcat2b,77,7,1,0.000761774767536361,7
+Myof,76,6,0,0.005103254,3
+Tspyl2,179,53,37,3.08743684387383e-06,8

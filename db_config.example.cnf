@@ -1,0 +1,9 @@
+# Copy to db_config.cnf and edit. Used by the R scripts and the Shiny app.
+[client]
+user=group11
+password=CHANGE_ME
+host=127.0.0.1
+port=3306
+
+[impc]
+database=IMPC_Group11

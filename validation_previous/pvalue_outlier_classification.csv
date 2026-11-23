@@ -1,0 +1,2 @@
+"source_file","analysis_id","gene_symbol","gene_accession_id","parameter_stable_id","parameter_name","original_p_value","source_value_verified","issue_type","expected_range","correction_status","recommended_action"
+"an1003883757.csv","an1003883757","Klk14","MGI:2447564","IMPC_ECG_002_001","HR","1.66848697",TRUE,"Source-level p-value range violation","0 to 1","Not corrected","Retain original value and flag for review"

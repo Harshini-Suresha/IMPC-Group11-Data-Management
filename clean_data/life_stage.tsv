@@ -1,0 +1,8 @@
+life_stage_id	life_stage_name	is_embryonic
+1	E9.5	1
+2	E12.5	1
+3	E15.5	1
+4	E18.5	1
+5	Early adult	1
+6	Middle aged adult	0
+7	Late adult	0

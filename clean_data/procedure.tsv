@@ -1,0 +1,52 @@
+procedure_id	procedure_name	procedure_code	description
+1	Acoustic Startle and Pre-pulse Inhibition (PPI)	ACS	\N
+2	Adult LacZ	ALZ	\N
+3	Auditory Brain Stem Response	ABR	Auditory brainstem response test determines hearing sensitivity and other physiological parameters using evoked potential recordings in anesthetized mice.Ontological description: MP:0004738 - abnormal brainstem auditory evoked potential.
+4	Body Composition (DEXA lean/fat)	DXA	Measure bone mineral content and density as well as body composition in mice using the DEXA (Dual Energy X-ray Absorptiometry) analyser.
+5	Body Weight	BWT	\N
+6	Challenge Whole Body Plethysmography	CHL	\N
+7	Clinical Chemistry	CBC	\N
+8	Combined SHIRPA and Dysmorphology	CSD	SHIRPA and dysmorphology were originally always separate assessments.&nbsp; However they have recently been combined as assessments so that they take place at the same time.The purpose of the assessments is to examine mice for obvious physical characteristics behaviors and morphological abnormalities.Descriptions include abnormal locomotion/appearance/behavior/reflex reactions.
+9	Echo	ECH	To assess the functionality of the heart in order to determine the presence of a mutant phenotype.
+10	Electrocardiogram (ECG)	ECG	To provide a high throughput method to obtain Electrocardiograms in a conscious mouse.
+11	Embryo LacZ	ELZ	\N
+12	Experimental design	EXD	\N
+13	Eye Morphology	EYE	To detect abnormalities in eye morphology.
+14	Fear Conditioning	FEA	Fear Conditioning test assesses aversive learning and memory
+15	Fertility of Homozygous Knock-out Mice	FER	To assess the fertility of homozygous knockout mice.
+16	Formalin Test	FOR	\N
+17	Grip Strength	GRS	\N
+18	Gross Morphology Embryo E12.5	GEM	\N
+19	Gross Morphology Embryo E14.5-E15.5	GEO	\N
+20	Gross Morphology Embryo E18.5	GEP	\N
+21	Gross Morphology Embryo E9.5	GEL	\N
+22	Gross Morphology Placenta E12.5	GPM	\N
+23	Gross Morphology Placenta E14.5-E15.5	GPO	\N
+24	Gross Morphology Placenta E18.5	GPP	\N
+25	Gross Morphology Placenta E9.5	GPL	\N
+26	Gross Pathology and Tissue Collection	PAT	\N
+27	Heart Weight	HWT	To evaluate cardiac size using heart weight and body weight.
+28	Hematology	HEM	Hematological assessment of blood determines blood cell counts (white blood cells red blood cells hemoglobin and platelets) and additional hematological parameters (hematocrit mean cell volume mean corpuscular hemoglobin mean cell hemoglobin concentration) can be derived using these indices. These tests will indicate abnormalities in the production of blood and its components (blood cells and hemoglobin) as well as in the associated blood-forming organs.&nbsp;Ontological description: MP:0002429 - abnormal blood cell morphology/development.
+29	Histopathology	HIS	\N
+30	Housing and Husbandry	HOU	\N
+31	Immunophenotyping	IMM	Immunophenotyping of immune system cells
+32	Indirect Calorimetry	CAL	\N
+33	Insulin Blood Level	INS	The insulin concentration in the blood is an important indicator of diabetes.Ontological description: abnormal circulating insulin level [MP:0001560]; increased circulating insulin level [MP:0002079]; decreased circulating insulin level [MP:0002727].
+34	Intraperitoneal glucose tolerance test (IPGTT)	IPG	\N
+35	Light-Dark Test	LDT	Light-Dark test monitors the anxiety-related behaviour of mice
+36	MicroCT E14.5-E15.5	EMO	\N
+37	MicroCT E14.5-E15.5 Analysis	MAA	\N
+38	MicroCT E18.5	EMA	\N
+39	MicroCT E9.5	EML	\N
+40	OPT E9.5	EOL	\N
+41	Open Field	OFD	The Open Field test is used to assess anxiety and exploratory behaviors. It is based on the natural tendency of an animal to explore and to protect itself using avoidance which translates to a normal animal spending more time in the periphery of the Open Field arena than in the center (the most anxiogenic area).
+42	Organ Weight	OWT	Organ weights from different tissues collected for IMPC
+43	Tissue Embedding and Block Banking	BLK	Collect and fix a standard list of tissues from the complete necropsy (see IMPC Gross Pathology &amp; Tissue Collection SOP)Trim the fixed tissues into cassettes for processingEmbed the tissues in paraffin in a standard orientation
+44	Viability E12.5 Secondary Screen	EVM	\N
+45	Viability E14.5-E15.5 Secondary Screen	EVO	\N
+46	Viability E18.5 Secondary Screen	EVP	\N
+47	Viability E9.5 Secondary Screen	EVL	\N
+48	Viability Primary Screen	VIA	Assess the viability of mutant mice of each sex and zygosity.
+49	Welfare Observations	WEL	The Welfare Observations procedure is used for the recording of welfare issues as and when they occur.
+50	X-ray	XRY	Construct and analyse digital X-ray images in immobilised mice using a Faxitron X-Ray system or NTB digital X-ray scanner.
+51	Y-maze	YMZ	Y-maze assesses learning and memory; it can be used instead/in parallel of Fear Conditioning

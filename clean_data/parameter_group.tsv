@@ -1,0 +1,12 @@
+group_id	group_name	group_description	rule_description
+1	Weight	Body, organ and tissue weights	name/description contains 'weight' or 'mass'; procedures Body Weight, Heart Weight, Organ Weight
+2	Images	Parameters that are images or derived from imaging	name/description contains 'image'/'imaging'/'x-ray'/'microct'/'opt'; procedures X-ray, MicroCT*, OPT*
+3	Brain	Brain and central nervous system	name/description contains brain, cerebr*, cerebell*, hippocamp*, cortex, ventricle(s) of brain, neur*, spinal cord; procedure Auditory Brain Stem Response
+4	Blood & clinical chemistry	Haematology, clinical chemistry and circulating analytes	procedures Hematology, Clinical Chemistry, Insulin Blood Level; or name contains blood/plasma/serum
+5	Cardiovascular	Heart and vascular function / morphology	procedures Echo, Electrocardiogram (ECG), Heart Weight; or name contains heart/cardi*/aort*/ventric*/atri*/vascular
+6	Eye & vision	Eye morphology and vision	procedure Eye Morphology; or name contains eye/retina/lens/cornea/iris/pupil/optic
+7	Skeleton & bone	Skeletal morphology and bone density	procedure X-ray; or name contains bone/skull/femur/tibia/vertebra/rib/digit/BMD/skeletal
+8	Behaviour & neurological	Behavioural and neurological screens	procedures Open Field, Light-Dark Test, Fear Conditioning, Y-maze, Acoustic Startle/PPI, Grip Strength, Combined SHIRPA, Formalin Test
+9	Metabolism	Energy balance, glucose handling and body composition	procedures Indirect Calorimetry, IPGTT, Insulin Blood Level, Body Composition (DEXA); or name contains glucose/insulin/fat/lean/oxygen consumption/respiratory exchange
+10	Immune system	Immunophenotyping and immune cell populations	procedure Immunophenotyping; or name contains T cell/B cell/NK/CD4/CD8/CD45/lymph*/monocyte/neutrophil/macrophage/granulocyte
+11	Embryo & development	Embryonic / placental morphology and viability	procedures Gross Morphology Embryo/Placenta*, Viability*, Embryo LacZ, MicroCT/OPT of embryos

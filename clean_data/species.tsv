@@ -1,0 +1,4 @@
+species_id	species_name	ensembl_gene_prefix
+1	Mouse	ENSMUSG
+2	Human	ENSG
+3	Vervet-AGM	ENSCSAG

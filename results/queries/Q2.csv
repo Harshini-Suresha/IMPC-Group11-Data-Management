@@ -1,0 +1,84 @@
+gene_symbol,parameter_name,parameter_stable_id,procedure_name,life_stage_name,p_value
+Ifng,Outcome,IMPC_EVL_001_001,Viability E9.5 Secondary Screen,E9.5,0
+Ifng,Homozygous females viability,IMPC_VIA_064_001,Viability Primary Screen,Early adult,0
+Ifng,Outcome,IMPC_EVM_001_001,Viability E12.5 Secondary Screen,E12.5,0
+Ifng,Homozygous males viability,IMPC_VIA_063_001,Viability Primary Screen,Early adult,0
+Ifng,% Pre-pulse inhibition - PPI3,IMPC_ACS_035_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,3.68469410538808e-09
+Ifng,% Pre-pulse inhibition - Global,IMPC_ACS_037_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,1.46788377919371e-05
+Ifng,30kHz-evoked ABR Threshold,IMPC_ABR_012_001,Auditory Brain Stem Response,Early adult,0.00037182287378983
+Ifng,Respiratory Exchange Ratio,IMPC_CAL_017_001,Indirect Calorimetry,Early adult,0.000377738897331836
+Ifng,Red blood cell count,IMPC_HEM_002_001,Hematology,Early adult,0.000398738189833825
+Ifng,Lean/Body weight,IMPC_DXA_008_001,Body Composition (DEXA lean/fat),Early adult,0.005947051
+Ifng,Body length,IMPC_DXA_006_001,Body Composition (DEXA lean/fat),Early adult,0.006501261
+Ifng,Fasted blood glucose concentration,IMPC_IPG_010_001,Intraperitoneal glucose tolerance test (IPGTT),Early adult,0.011998386
+Ifng,Initial response to glucose challenge,IMPC_IPG_011_001,Intraperitoneal glucose tolerance test (IPGTT),Early adult,0.016299115
+Ifng,BMC/Body weight,IMPC_DXA_007_001,Body Composition (DEXA lean/fat),Early adult,0.020354741
+Ifng,Platelet count,IMPC_HEM_008_001,Hematology,Early adult,0.032826892
+Ifng,Periphery distance travelled,IMPC_OFD_010_001,Open Field,Early adult,0.035926632
+Ifng,Whole arena average speed,IMPC_OFD_009_001,Open Field,Early adult,0.047806611
+Lpcat2b,Distance travelled - total,JAX_OFD_020_001,Open Field,Early adult,0.000761774767536361
+Lpcat2b,Time mobile light side,JAX_LDT_003_001,Light-Dark Test,Early adult,0.022070313
+Lpcat2b,Pupil Shape,IMPC_EYE_012_001,Eye Morphology,Early adult,0.022754563
+Lpcat2b,12kHz-evoked ABR Threshold,IMPC_ABR_006_001,Auditory Brain Stem Response,Early adult,0.026490066
+Lpcat2b,CV,IMPC_ECG_003_001,Electrocardiogram (ECG),Early adult,0.027283616
+Lpcat2b,Forelimb grip strength measurement mean,IMPC_GRS_008_001,Grip Strength,Early adult,0.031796393
+Lpcat2b,Hemoglobin,IMPC_HEM_003_001,Hematology,Early adult,0.049434459
+Myof,% Pre-pulse inhibition - PPI3,IMPC_ACS_035_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,0.005103254
+Myof,% Pre-pulse inhibition - PPI2,IMPC_ACS_034_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,0.010684192
+Myof,Retinal Blood Vessels Pattern,IMPC_EYE_026_001,Eye Morphology,Early adult,0.015999225
+Myof,Retinal Blood Vessels Structure,IMPC_EYE_025_001,Eye Morphology,Early adult,0.019581026
+Myof,Forelimb grip strength measurement mean,IMPC_GRS_008_001,Grip Strength,Early adult,0.026693348
+Myof,Forelimb grip strength normalised against body weight,IMPC_GRS_010_001,Grip Strength,Early adult,0.045993136
+Tspyl2,Distance travelled - total,IMPC_OFD_020_001,Open Field,Early adult,3.08743684387383e-06
+Tspyl2,Whole arena average speed,IMPC_OFD_009_001,Open Field,Early adult,1.2199790277492e-05
+Tspyl2,% Pre-pulse inhibition - PPI3,IMPC_ACS_035_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,2.0346100284608e-05
+Tspyl2,Whole arena average speed,IMPC_OFD_009_001,Open Field,Early adult,2.35113913127916e-05
+Tspyl2,% Pre-pulse inhibition - PPI2,IMPC_ACS_034_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,9.41719462218051e-05
+Tspyl2,Stomach,IMPC_ALZ_013_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Lymph Node,IMPC_ALZ_008_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Bone,IMPC_ALZ_043_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Cartilage tissue,IMPC_ALZ_032_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Striatum,IMPC_ALZ_040_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Peripheral Nervous System,IMPC_ALZ_038_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Cerebellum,IMPC_ALZ_034_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Hypothalamus,IMPC_ALZ_036_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Brainstem,IMPC_ALZ_031_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Parathyroid gland,IMPC_ALZ_060_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Heart,IMPC_ALZ_005_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Thyroid gland,IMPC_ALZ_021_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Pituitary gland,IMPC_ALZ_022_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Testis,IMPC_ALZ_014_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Lower Urinary Tract,IMPC_ALZ_002_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Olfactory Lobe,IMPC_ALZ_037_001,Adult LacZ,Early adult,0.000119260584376864
+Tspyl2,Brain,IMPC_ALZ_003_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Cerebellum,IMPC_ALZ_034_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Adrenal gland,IMPC_ALZ_001_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Thyroid gland,IMPC_ALZ_021_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Bone,IMPC_ALZ_043_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Lower Urinary Tract,IMPC_ALZ_002_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Kidney,IMPC_ALZ_006_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Pituitary gland,IMPC_ALZ_022_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Peripheral Nervous System,IMPC_ALZ_038_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Hippocampus,IMPC_ALZ_035_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Spinal cord,IMPC_ALZ_020_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Ovary,IMPC_ALZ_010_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Heart,IMPC_ALZ_005_001,Adult LacZ,,0.000121124031007752
+Tspyl2,Trachea,IMPC_ALZ_016_001,Adult LacZ,Early adult,0.000121124031007752
+Tspyl2,Lean/Body weight,IMPC_DXA_008_001,Body Composition (DEXA lean/fat),Early adult,0.000190029862101815
+Tspyl2,Number of rears - total,IMPC_OFD_021_001,Open Field,Early adult,0.000559316022880063
+Tspyl2,Periphery distance travelled,IMPC_OFD_010_001,Open Field,Early adult,0.001037458
+Tspyl2,Prostate gland,IMPC_ALZ_029_001,Adult LacZ,Early adult,0.001788909
+Tspyl2,Number of rears - total,IMPC_OFD_021_001,Open Field,Early adult,0.002852047
+Tspyl2,Respiration Rate,IMPC_ECH_018_001,Echo,Early adult,0.011268492
+Tspyl2,BMC/Body weight,IMPC_DXA_007_001,Body Composition (DEXA lean/fat),Early adult,0.012695477
+Tspyl2,Left anterior chamber depth,IMPC_EYE_067_001,Eye Morphology,Early adult,0.018120349
+Tspyl2,Bone Mineral Content (excluding skull),IMPC_DXA_005_001,Body Composition (DEXA lean/fat),Early adult,0.019450062
+Tspyl2,% Pre-pulse inhibition - PPI1,IMPC_ACS_033_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,0.024917448
+Tspyl2,RR,IMPC_ECG_004_001,Electrocardiogram (ECG),Early adult,0.025779501
+Tspyl2,LVPWd,IMPC_ECH_009_001,Echo,Early adult,0.025848926
+Tspyl2,% Pre-pulse inhibition - PPI2,IMPC_ACS_034_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,0.02696252
+Tspyl2,Stroke Volume,IMPC_ECH_003_001,Echo,Early adult,0.032719757
+Tspyl2,Bone Area,IMPC_DXA_010_001,Body Composition (DEXA lean/fat),Early adult,0.033866841
+Tspyl2,% Pre-pulse inhibition - PPI3,IMPC_ACS_035_001,Acoustic Startle and Pre-pulse Inhibition (PPI),Early adult,0.037692803
+Tspyl2,Respiratory Exchange Ratio,IMPC_CAL_017_001,Indirect Calorimetry,Early adult,0.041277502
+Tspyl2,BMC/Body weight,IMPC_DXA_007_001,Body Composition (DEXA lean/fat),Early adult,0.042044484

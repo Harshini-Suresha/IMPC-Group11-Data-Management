@@ -1,0 +1,6 @@
+gene_symbol,mgi_gene_id,alleles,n_analyses
+Cog2,MGI:1923582,Cog2<tm1a(KOMP)Wtsi>,6
+Ifng,MGI:107656,Ifng<tm1.1(KOMP)Vlcg>,208
+Lpcat2b,MGI:1918152,Lpcat2b<tm1b(KOMP)Mbp>,77
+Myof,MGI:1919192,Myof<tm1b(EUCOMM)Hmgu>,76
+Tspyl2,MGI:106244,Tspyl2<tm1b(KOMP)Wtsi>,192

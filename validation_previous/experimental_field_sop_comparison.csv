@@ -1,0 +1,39 @@
+"experimental_field","present_in_sop"
+"_symbol",FALSE
+",tissue not available
+lacz_brain,expression
+lacz_colon,no expression
+lacz_eye,no expression
+lacz_heart,tissue not available
+lacz_kidney,no expression
+lacz_liver,no @expression
+lacz_lung,no expression
+lacz_skeletal_muscle,tissue not available
+lacz_skin,no expression
+lacz_vascular_system,tissue not available
+analysis_id,an8097586748
+",FALSE
+"allele_symbol",TRUE
+"analysis_id",TRUE
+"analysis_id""an1031998894",FALSE
+"gene_accession_id",TRUE
+"gene_symbol",TRUE
+"lacz_blood",FALSE
+"lacz_blood""lacz_brain",FALSE
+"lacz_brain",FALSE
+"lacz_colon",FALSE
+"lacz_eye",FALSE
+"lacz_heart",FALSE
+"lacz_kidney",FALSE
+"lacz_liver",FALSE
+"lacz_lung",FALSE
+"lacz_skeletal_muscle",FALSE
+"lacz_skin",FALSE
+"lacz_vascular_system",FALSE
+"mouse_life_stage",TRUE
+"p_value",FALSE
+"parameter_name",TRUE
+"parameter_stable_id",FALSE
+"parameterName",FALSE
+"strain_name",TRUE
+"strainName",FALSE

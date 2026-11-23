@@ -1,0 +1,10 @@
+"field","missing_values","total_records","percentage_missing"
+"analysis_id",3,28670,0.01
+"gene_accession_id",0,28670,0
+"gene_symbol",274,28670,0.956
+"strain_name",1,28670,0.003
+"mouse_life_stage",310,28670,1.081
+"parameter_stable_id",282,28670,0.984
+"parameter_name",1,28670,0.003
+"p_value",300,28670,1.046
+"allele_symbol",290,28670,1.012

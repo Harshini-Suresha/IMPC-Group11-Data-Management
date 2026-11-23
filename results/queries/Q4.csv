@@ -1,0 +1,40 @@
+gene_symbol,group_name,n_tests,n_significant,min_p
+Cog2,Metabolism,1,0,0.936399225
+Ifng,Metabolism,17,6,0.000377738897331836
+Ifng,Behaviour & neurological,35,4,3.68469410538808e-09
+Ifng,Embryo & development,19,4,0
+Ifng,Blood & clinical chemistry,22,3,0.000398738189833825
+Ifng,Weight,6,2,0.005947051
+Ifng,Brain,7,1,0.00037182287378983
+Ifng,Cardiovascular,4,0,0.173102115
+Ifng,Eye & vision,9,0,1
+Ifng,Images,5,0,1
+Ifng,Immune system,3,0,0.135017399
+Ifng,Skeleton & bone,9,0,0.144972732
+Lpcat2b,Behaviour & neurological,33,3,0.000761774767536361
+Lpcat2b,Eye & vision,18,1,0.022754563
+Lpcat2b,Blood & clinical chemistry,15,1,0.049434459
+Lpcat2b,Brain,1,1,0.026490066
+Lpcat2b,Cardiovascular,8,1,0.027283616
+Lpcat2b,Skeleton & bone,4,0,0.439685859
+Lpcat2b,Metabolism,7,0,0.057635139
+Lpcat2b,Embryo & development,1,0,1
+Lpcat2b,Weight,4,0,0.148977892
+Myof,Behaviour & neurological,35,4,0.005103254
+Myof,Blood & clinical chemistry,3,2,0.015999225
+Myof,Eye & vision,21,2,0.015999225
+Myof,Weight,6,1,0.045993136
+Myof,Cardiovascular,10,0,0.1852861
+Myof,Embryo & development,2,0,1
+Myof,Metabolism,6,0,0.208056962
+Myof,Skeleton & bone,3,0,0.208056962
+Tspyl2,Behaviour & neurological,41,11,3.08743684387383e-06
+Tspyl2,Brain,9,9,0.000119260584376864
+Tspyl2,Cardiovascular,28,6,0.000119260584376864
+Tspyl2,Metabolism,13,6,0.000190029862101815
+Tspyl2,Skeleton & bone,23,4,0.000119260584376864
+Tspyl2,Weight,9,3,0.000190029862101815
+Tspyl2,Eye & vision,31,1,0.018120349
+Tspyl2,Immune system,10,1,0.000119260584376864
+Tspyl2,Blood & clinical chemistry,4,0,0.548333648
+Tspyl2,Images,18,0,0.129039474

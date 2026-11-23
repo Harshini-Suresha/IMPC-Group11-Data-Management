@@ -1,0 +1,2 @@
+"file_1","file_2","same_parameter_id","same_parameter_name","same_gene","same_allele","same_p_value","same_analysis_id","number_of_differing_fields","classification","action"
+"an3209827559.csv","an8513676512.csv",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,11,"Distinct experimental records","Retain both records; flag anomalous LacZ values for review"

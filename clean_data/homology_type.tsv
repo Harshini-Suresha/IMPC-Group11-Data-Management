@@ -1,0 +1,4 @@
+homology_type_id	homology_type
+1	ortholog_many2many
+2	ortholog_one2many
+3	ortholog_one2one

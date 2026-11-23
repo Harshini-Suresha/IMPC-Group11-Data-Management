@@ -1,0 +1,9 @@
+gene_symbol,mouse_ensembl_gene_id,species_name,homolog_ensembl_gene_id,homolog_gene_name,homology_type,last_common_ancestor,pct_identity
+Cog2,ENSMUSG00000031979,Human,ENSG00000135775,COG2,ortholog_one2one,Euarchontoglires,85.7729
+Cog2,ENSMUSG00000031979,Vervet-AGM,ENSCSAG00000010573,COG2,ortholog_one2one,Euarchontoglires,85.7729
+Ifng,ENSMUSG00000055170,Human,ENSG00000111537,IFNG,ortholog_one2one,Euarchontoglires,40.6452
+Ifng,ENSMUSG00000055170,Vervet-AGM,ENSCSAG00000004339,IFNG,ortholog_one2one,Euarchontoglires,41.9355
+Myof,ENSMUSG00000048612,Human,ENSG00000138119,MYOF,ortholog_one2one,Euarchontoglires,93.9835
+Myof,ENSMUSG00000048612,Vervet-AGM,ENSCSAG00000006419,MYOF,ortholog_one2one,Euarchontoglires,92.7705
+Tspyl2,ENSMUSG00000041096,Human,ENSG00000184205,TSPYL2,ortholog_one2one,Euarchontoglires,72.969
+Tspyl2,ENSMUSG00000041096,Vervet-AGM,ENSCSAG00000012621,TSPYL2,ortholog_one2one,Euarchontoglires,72.8213

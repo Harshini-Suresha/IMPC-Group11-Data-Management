@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  hit_rate by disease
+W = 496394, p-value = 0.03235
+alternative hypothesis: true location shift is not equal to 0
+
